@@ -1,1 +1,1 @@
-# docker-go-xray-sql-api-aws
+# docker-go-xray-sql-api-aws-funds
